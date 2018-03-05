@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Parking App</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBKwpdlkXNHGL7Jk7ZQst--hOBWYyAfpzg</string>
+    <string name="title_search">Search</string>
+    <string name="title_reserve">Reservations</string>
+</resources>
